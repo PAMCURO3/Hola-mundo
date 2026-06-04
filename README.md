@@ -7,8 +7,10 @@ me gusta el 🍨, 🐶
 me gusta 🏊‍♀️ 📚
 i love :horse:
 i love :bike:
-me gusta :study:
+me gusta :ball:
 
 tengo un :cat:
+
+tengo un :car:
 
 
