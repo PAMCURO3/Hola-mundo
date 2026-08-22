@@ -19,3 +19,4 @@ Git push --tags
 
 Git log --oneline 
 
+# Versión V1.2.0 - otra prueba
